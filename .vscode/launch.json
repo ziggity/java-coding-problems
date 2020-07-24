@@ -1,0 +1,132 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<BONUS_1_ArrayToStreamAndBack>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "BONUS_1_ArrayToStreamAndBack"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainApplication<BONUS_1_ChunkList>",
+            "request": "launch",
+            "mainClass": "modern.challenge.MainApplication",
+            "projectName": "BONUS_1_ChunkList"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainApplication<BONUS_1_SpringAndJavaRecords>",
+            "request": "launch",
+            "mainClass": "modern.challenge.MainApplication",
+            "projectName": "BONUS_1_SpringAndJavaRecords"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainApplication<BONUS_2_SpringAndJavaRecordsInjection>",
+            "request": "launch",
+            "mainClass": "modern.challenge.MainApplication",
+            "projectName": "BONUS_2_SpringAndJavaRecordsInjection"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P116_CopyMap>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P116_CopyMap"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P141_JSONFileToObjectViaGson>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P141_JSONFileToObjectViaGson"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P141_JSONFileToObjectViaJackson>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P141_JSONFileToObjectViaJackson"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P141_JSONFileToObjectViaJsonb>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P141_JSONFileToObjectViaJsonb"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P182_MapStreamHelpers>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P182_MapStreamHelpers"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P244_AssertingEqualityOfOptional>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P244_AssertingEqualityOfOptional"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainApplication<P250_QueryParametersBuilder>",
+            "request": "launch",
+            "mainClass": "modern.challenge.MainApplication",
+            "projectName": "P250_QueryParametersBuilder"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P263_JsonViaHttpClient>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P263_JsonViaHttpClient"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P52_BadDataInImmutable>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P52_BadDataInImmutable"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P53_CloningObjects>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P53_CloningObjects"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P55_JDK13_SwitchExpression>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P55_JDK13_SwitchExpression"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<P57_JDK13_StatementBlocks>",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main",
+            "projectName": "P57_JDK13_StatementBlocks"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main",
+            "request": "launch",
+            "mainClass": "modern.challenge.Main"
+        }
+    ]
+}
